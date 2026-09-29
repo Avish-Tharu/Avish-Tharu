@@ -171,7 +171,7 @@ testing, improving, and continuously learning from real projects.
 I'm always interested in learning, collaborating, and connecting with  
 other developers.
 
-💼 **LinkedIn:** [Tharushi Rajapaksha](https://www.linkedin.com/in/tharushi-rajapaksha-975aa2422/)  
+💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/tharushi-rajapaksha-975aa2422/)  
 📧 **Email:** [tharushiwri@gmail.com](mailto:tharushiwri@gmail.com)
 
 ⭐ Thanks for visiting my profile!
