@@ -165,12 +165,9 @@ Software Engineering
 I believe the best way to learn software engineering is by building,
 testing, improving, and continuously learning from real projects.
 
-🤝 Let's Connect
+## 🤝 Let's Connect
 
-I'm always interested in learning, collaborating, and connecting with
-other developers.
-
-💼 LinkedIn: https://www.linkedin.com/in/tharushi-rajapaksha-975aa2422/
-📧 Email: tharushiwr@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/tharushi-rajapaksha-975aa2422/)
+- 📧 [Email](mailto:tharushiwr@gmail.com)
 
 ⭐ Thanks for visiting my profile!
